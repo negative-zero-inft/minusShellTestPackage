@@ -1,6 +1,6 @@
 // data about the package
 
-const name = 'name'
+const name = 'test'
 const desc = 'describe your package'
 const version = '0.0.0'
 
